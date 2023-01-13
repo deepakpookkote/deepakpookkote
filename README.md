@@ -28,37 +28,37 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Node Js" width="26px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/nodejs.svg" />
-<img align="left" alt="Angular" width="26px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/angular.svg" />
-<img align="left" alt="Javascript" width="26px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/javascript.svg" />
-<img align="left" alt="Html" width="20px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/html.svg" />
-<img align="left" alt="CSS" width="20px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/css.svg" />
-<img align="left" alt="Java" width="26px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/java.svg" />
-<img align="left" alt="React/React Native" width="26px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/react-native.svg" />
-<img align="left" alt="MySql" width="26px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/mysql.svg" />
-<img align="left" alt="Mongo DB" width="35px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/mongodb.svg" />
+<img align="left" alt="Node Js" width="26px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/nodejs.svg" />
+<img align="left" alt="Angular" width="26px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/angular.svg" />
+<img align="left" alt="Javascript" width="26px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/javascript.svg" />
+<img align="left" alt="Html" width="20px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/html.svg" />
+<img align="left" alt="CSS" width="20px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/css.svg" />
+<img align="left" alt="Java" width="26px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/java.svg" />
+<img align="left" alt="React/React Native" width="26px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/react-native.svg" />
+<img align="left" alt="MySql" width="26px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/mysql.svg" />
+<img align="left" alt="Mongo DB" width="35px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/mongodb.svg" />
 
 <br />
 <br />
 
-<img align="left" alt="Bootstrap" width="26px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/bootstrap.svg" />
-<img align="left" alt="jQuery" width="30px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/jquery.svg" />
-<img align="left" alt="Docker" width="35px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/docker.svg" />
-<img align="left" alt="WebRTC" width="30px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/webrtc.svg" />
-<img align="left" alt="Redis" width="30px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/redis.svg" />
-<img align="left" alt="Kafka" width="20px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/kafka.svg" />
-<img align="left" alt="AWS" width="30px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/aws.svg" />
-<img align="left" alt="GCP" width="30px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/google-cloud.svg" />
-<img align="left" alt="Digital Ocean" width="30px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/digitalocean.svg" />
+<img align="left" alt="Bootstrap" width="26px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/bootstrap.svg" />
+<img align="left" alt="jQuery" width="30px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/jquery.svg" />
+<img align="left" alt="Docker" width="35px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/docker.svg" />
+<img align="left" alt="WebRTC" width="30px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/webrtc.svg" />
+<img align="left" alt="Redis" width="30px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/redis.svg" />
+<img align="left" alt="Kafka" width="20px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/kafka.svg" />
+<img align="left" alt="AWS" width="30px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/aws.svg" />
+<img align="left" alt="GCP" width="30px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/google-cloud.svg" />
+<img align="left" alt="Digital Ocean" width="30px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/digitalocean.svg" />
 <br />
 <br />
 
-<img align="left" alt="Photoshop" width="26px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/photoshop.svg" />
-<img align="left" alt="After Effects" width="26px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/after-effects.svg" />
-<img align="left" alt="Illustrator" width="26px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/illustrator.svg" />
-<img align="left" alt="Adobe Premiere Pro" width="26px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/premiere.svg" />
-<img align="left" alt="Adobe XD" width="26px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/xd.svg" />
-<img align="left" alt="Sketch" width="26px" src="https://deepakpookkote.github.io/Deepak_Pookkote/img/brands/sketch.svg" />
+<img align="left" alt="Photoshop" width="26px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/photoshop.svg" />
+<img align="left" alt="After Effects" width="26px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/after-effects.svg" />
+<img align="left" alt="Illustrator" width="26px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/illustrator.svg" />
+<img align="left" alt="Adobe Premiere Pro" width="26px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/premiere.svg" />
+<img align="left" alt="Adobe XD" width="26px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/xd.svg" />
+<img align="left" alt="Sketch" width="26px" src="https://deepakpookkote.github.io/Deepak-Pookkote/img/brands/sketch.svg" />
 <br /> <br/>
 
 ### 📕 Latest Blog Posts
